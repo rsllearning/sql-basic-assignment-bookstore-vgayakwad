@@ -44,3 +44,4 @@ The objective is to create and populate relational database tables and write SQL
 - SOURCE /path/to/basic-sql-assignment.sql;
 
 - Replace /path/to/ with the actual directory containing the file.
+
